@@ -1,0 +1,94 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787020695.149612,
+    "completed_at": 1787020698.415026,
+    "comments": [
+      "There are no grocery list items removed from the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787020789.337725,
+    "completed_at": 1787020790.704009,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787021877.630082,
+    "completed_at": 1787021880.479687,
+    "comments": [
+      "Invalid answers format: missing question(s) or answer(s) or both"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787021943.635036,
+    "completed_at": 1787021946.506677,
+    "comments": [
+      "Invalid answers format: missing question(s) or answer(s) or both"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787022005.758047,
+    "completed_at": 1787022008.5773,
+    "comments": [
+      "Invalid answers format: missing question(s) or answer(s) or both"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1787020439.731037,
+    "completed_at": 1787020442.72146,
+    "comments": [
+      "Did not add alice.txt",
+      "Did not add bob.txt",
+      "Did not add joe.txt"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1787020498.757862,
+    "completed_at": 1787020500.197237,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1787021003.186237,
+    "completed_at": 1787021004.503378,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786888783.376445,
+    "completed_at": 1786888785.066845,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786888927.92146,
+    "completed_at": 1786888929.431657,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  }
+]
