@@ -180,5 +180,14 @@
       "Missing question In February, who was replaced in the Wednesday duty roster? in answers file."
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1787034145.653851,
+    "completed_at": 1787034149.548767,
+    "comments": [
+      "Invalid answers format: missing question(s) or answer(s) or both"
+    ],
+    "status": "Error"
   }
 ]
