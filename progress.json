@@ -424,5 +424,14 @@
       "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1787125801.910716,
+    "completed_at": 1787125803.306921,
+    "comments": [
+      "Great work in viewing and understanding the diff of a specific commit!"
+    ],
+    "status": "Completed"
   }
 ]
