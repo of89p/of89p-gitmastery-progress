@@ -619,5 +619,14 @@
       "Good job performing a merge squash!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "ff-undo",
+    "started_at": 1787374587.77346,
+    "completed_at": 1787374591.152011,
+    "comments": [
+      "The merge has not been undone properly."
+    ],
+    "status": "Incomplete"
   }
 ]
